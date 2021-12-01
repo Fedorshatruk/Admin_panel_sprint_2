@@ -1,4 +1,3 @@
-from django.db.models import Count
 from rest_framework.viewsets import ReadOnlyModelViewSet
 
 from movies.api.v1.mixins import FilmWorkViewsSetMixin
